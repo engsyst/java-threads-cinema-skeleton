@@ -198,11 +198,12 @@ The report must contain:
 
 | Item | Points |
 | --- | --- |
-| Version A implemented, the problem is reproduced and explained | 0.5 |
-| Version B correct in all runs | 0.5 |
-| Version C correct in all runs, with comparison and explanation of the timing | 1 |
-| **Total for Part 1** | **2** |
-| Part 2: group booking implemented, problem demonstrated, explained and solved | +1 |
+| Version A implemented, the problem is reproduced and explained | 2 |
+| Version B correct in all runs | 2 |
+| Version C correct in all runs, with comparison and explanation of the timing | 3 |
+| **Total for Part 1** | **7** |
+| Part 2: group booking implemented, problem demonstrated, explained and solved | 3 |
+| **Total** | **10** |
 
 Points are reduced if the program is correct only by chance, if given files were modified, or if the report contains no explanation of the observed results.
 
